@@ -7,5 +7,5 @@ The repo is part of level zero for NeoG camp and has the repl code for [quiz](ht
 
 
 
-## Screengrabs
+## Screengrab
 ![Screenshot 2022-09-24 at 3 56 40 PM](https://user-images.githubusercontent.com/44650625/192092977-63124e44-d048-45b1-b14b-fc70828f9f80.png)
